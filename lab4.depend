@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1558962065 source:c:\users\cloudness\desktop\cloudness\向着杀老师进击\大三下册\计算机操作系统\实验\lab4\fun.cpp
+	"header.h"
+	"main.h"
+
+1558949102 c:\users\cloudness\desktop\cloudness\向着杀老师进击\大三下册\计算机操作系统\实验\lab4\header.h
+	"windows.h"
+	<conio.h>
+	<stdlib.h>
+	<io.h>
+	<string.h>
+	<stdio.h>
+	<iostream>
+	"time.h"
+
+1558968504 source:c:\users\cloudness\desktop\cloudness\向着杀老师进击\大三下册\计算机操作系统\实验\lab4\main.cpp
+	"header.h"
+	<iostream>
+
+1558961018 c:\users\cloudness\desktop\cloudness\向着杀老师进击\大三下册\计算机操作系统\实验\lab4\main.h
+	"header.h"
+
